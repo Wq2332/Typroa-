@@ -58,3 +58,7 @@ $ git remote rm origin
 2、再添加远程 Git 仓库
 
 $ git remote add origin git +仓库路径
+
+
+
+## 8、如果是空仓库，只需要进行1，2，4，5，7步骤
