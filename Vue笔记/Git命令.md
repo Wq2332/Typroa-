@@ -20,5 +20,14 @@
 
 9. git commit 进行提交 -m选项是加入描述
 
+10. git checkout --文件名  撤销文件修改
 
+11. git reset HEAD 文件名  从暂存区移除对应文件
 
+12. git commit -a -m 跳过暂存区直接提交
+
+13. git rm -f 文件名 从git仓库与工作区同时移除   
+
+14. git rm --cached 文件名 从git仓库中移除，但是保留在工作区
+
+15. ![image-20220615112103304](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20220615112103304.png)
